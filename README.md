@@ -1,5 +1,5 @@
 # ROCSS
-Real Time Online Clothing System
+Real Time Online Cloth Simulation System
 
 Project Report :
 https://drive.google.com/file/d/1DsG11mhHQusrm0--VVeXodE6RJg_Ak0-/view?usp=sharing
